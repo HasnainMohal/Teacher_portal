@@ -1,0 +1,44 @@
+{
+    "BT_Lang": [
+        {
+            "Date": "date",
+            "Trainer": "trainer",
+            "Durations": "durations",
+            "Notes_Oberation": "Notes_Oberation",
+            "info": "info"
+        }
+    ],
+    "IM": [
+        {
+            "date": "date",
+            "Activity": "Activity",
+            "Durations": "durations",
+            "Task_Avg": "TaskAvg",
+            "Var Avg": "VarAvg",
+            "SRO(%)": "SRO(%)",
+            "E": "E",
+            "L": "L",
+            "HighestIAR": "HighestIAR",
+            "Burst": "Burst"
+        }
+    ],
+    "SI_FT": [
+        {
+            "Date": "date",
+            "Trainer": "trainer",
+            "Durations": "durations",
+            "Vestibular": "Vestibular",
+            "Reflex": "Reflex",
+            "VP_AP": "VP_AP",
+            "FT": "FT",
+            "Message": "Message",
+            "Proprioception": "Proprioception",
+            "Kinestesia": "Kinestesia",
+            "EP": "EP",
+            "Emotions": "Emotions",
+            "Tactile_Oral": "Tactile_Oral",
+            "Muscle_tone": "Muscle_tone",
+            "Others": "Others"
+        }
+    ]
+}
